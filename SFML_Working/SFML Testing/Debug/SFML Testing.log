@@ -1,0 +1,4 @@
+﻿  SFML Testing.cpp
+c:\users\chupp\source\repos\sfml_working\sfml testing\sfml testing.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\chupp\source\repos\sfml_working\sfml testing\sfml testing.cpp(214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML Testing.vcxproj -> C:\Users\chupp\source\repos\SFML_Working\Debug\SFML Testing.exe
